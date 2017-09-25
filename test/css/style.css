@@ -1,0 +1,18 @@
+input{
+    width: 180px;
+
+}
+select{
+    width: 180px;
+}
+label{
+    width: 100px;
+    display:inline-block;
+}
+#agree{
+    width: auto;
+    margin-right: 10px;
+}
+#l-agree{
+    width: auto;
+}
